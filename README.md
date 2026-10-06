@@ -41,7 +41,7 @@
 
 | تاریخ | شاعر | لینک |
 |:-------:|:------:|:------:|
-| مهر 1405 | امید بهنیا | <a href="https;//google.com" target="_blank">🌎 برو به لینک</a>  |
+| مهر 1405 | امید بهنیا | <a href="https://github.com/SokhankadeParsi/Parsi_Poetry/tree/main/1405/%D9%85%D9%87%D8%B1" target="_blank">🌎 برو به لینک</a>  |
 
 **لینک صفحهٔ نخست:** `https://github.com/SokhankadeParsi/Parsi_Poetry`
 
